@@ -1,0 +1,28 @@
+body{
+  font-family:arial;
+  padding:20px;
+}
+#root{
+  width:80%;
+  height:50%;
+  
+  margin:auto;
+  text-align:center;
+
+  color:black;
+  padding:20px;
+
+}
+.update{
+  padding:20px;
+  width:80%;
+  margin:auto;
+  color:white;
+  text-align:center;
+  background-color:black;
+}
+
+.container{
+  display:flex; 
+  flex-direction:column;
+}
